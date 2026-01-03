@@ -1,1 +1,17 @@
-requests
+What you have to build
+A Python system that:
+
+Reads and cleans a messy salesdata.txt file (pipe‑delimited, non‑UTF‑8, with data quality issues).
+​
+
+Validates and filters out invalid records according to strict rules.
+​
+
+Fetches product information from an external API (you will implement this via a function, probably with requests).
+​
+
+Analyzes sales (totals, by product, by region, customer behavior, etc.).
+​
+
+Generates reports (printed to console and/or written to files under output/).
+​
