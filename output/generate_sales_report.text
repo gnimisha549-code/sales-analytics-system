@@ -1,0 +1,35 @@
+===============================================
+      SALES ANALYTICS SYSTEM
+===============================================
+
+[1/10] Reading sales data...
+✓ Loaded 80 transactions from Transactions.txt
+
+[2/10] Parsing and cleaning data...
+✓ Parsed 80 records
+
+[3/10] Filter Options Available:
+Regions: South, East, North, West, 
+Amount Range: ₹-8,982 - ₹818,960
+✓ No filter applied
+
+[4/10] Validating transactions...
+✓ Valid: 80 | Invalid: 0
+
+[5/10] Analyzing sales data...
+✓ Analysis complete
+
+[6/10] Fetching product data from API...
+✓ Fetched 0 products
+
+[7/10] Enriching sales data...
+✓ Enriched 80/80 transactions (100.0%)
+
+✓ Saved to: data/enriched_sales_data.csv
+
+[9/10] Generating report...
+Sales report generated at output/sales_report.txt
+✓ Report saved to: output/sales_report.txt
+
+[10/10] Process Complete!
+===============================================    
