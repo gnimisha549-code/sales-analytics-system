@@ -1,1 +1,45 @@
+============================================
+        SALES ANALYTICS REPORT
+     Generated: 2026-01-03 14:46:08
+     Records Processed: 80
+============================================
+
+OVERALL SUMMARY
+--------------------------------------------
+Total Revenue:        ₹3,578,094.00
+Total Transactions:   80
+Average Order Value:  ₹44,726.18
+Date Range:           2024-12-01 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+--------------------------------------------
+North      ₹ 1,346,375    37.63%   25
+South      ₹   896,796    25.06%   15
+West       ₹   856,852    23.95%   21
+East       ₹   465,674    13.01%   18
+           ₹    12,397     0.35%   1
+
+API ENRICHMENT SUMMARY
+--------------------------------------------
+Products Enriched: 0
+Success Rate: 0.00%
+Failed Products:
+ - External Hard Drive
+ - External Hard Drive,1TB
+ - Headphones
+ - Keyboard
+ - Keyboard,Mechanical
+ - Laptop
+ - Laptop Charger
+ - Laptop Charger,65W
+ - Laptop,Premium
+ - Monitor
+ - Monitor,LED
+ - Mouse
+ - Mouse,Wireless
+ - USB Cable
+ - Webcam
+ - Webcam,HD
+ - Wireless Mouse
+ - Wireless Mouse,Gaming
 
